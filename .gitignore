@@ -1,0 +1,14 @@
+# 编译产物
+*.class
+
+# IDE / 编辑器
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
